@@ -1,0 +1,25 @@
+{
+  "name": "@swplabs/peanut-examples",
+  "version": "1.0.0",
+  "description": "Example elements for Peanut for Wordpress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swplabs/peanut-examples.git"
+  },
+  "keywords": [
+    "Wordpress"
+  ],
+  "author": "SWP Labs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swplabs/peanut-examples/issues"
+  },
+  "homepage": "https://github.com/swplabs/peanut-examples#readme",
+  "devDependencies": {
+    "@swplabs/peanutforwp": "0.1.0-alpha.2"
+  }
+}

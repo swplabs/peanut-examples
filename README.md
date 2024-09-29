@@ -17,9 +17,11 @@ npm install  # this will install Peanut for Wordpress
 npx peanut
 ```
 
+You'll need to activate the "Example Theme (Peanut For Wordpress)" in your Wordpress Admin.
+
 ## Documentation
 
-Documentation can be found at [Peanut for Wordpress on Gitbooks](https://swp-labs.gitbook.io/peanut-for-wordpress/getting-started/coding-examples).
+More documentation can be found at [Peanut for Wordpress on Gitbooks](https://swp-labs.gitbook.io/peanut-for-wordpress/getting-started/coding-examples).
 
 ## Support Us
 

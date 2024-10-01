@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/swplabs/peanut-examples#readme",
   "devDependencies": {
-    "@swplabs/peanutforwp": "0.1.0-alpha.2"
+    "@swplabs/peanutforwp": "0.1.0-alpha.4"
   }
 }
